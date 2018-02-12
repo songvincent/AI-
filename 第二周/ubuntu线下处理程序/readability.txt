@@ -1,0 +1,1 @@
+readability input.txt >trst.txt
